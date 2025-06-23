@@ -4,7 +4,7 @@ A **IR Sync** é uma planilha desenvolvida em Microsoft Excel com o objetivo de 
 
 Seu foco está na praticidade e na clareza visual, reunindo as principais informações do contribuinte em um ambiente limpo, intuitivo e estruturado para consultas e preenchimentos.
 
-Com um visual de destaque baseado em **rosas, roxos e preto**, a IRSync foi pensada para entregar clareza, energia e estilo, sem abrir mão da estrutura e objetividade, aliando a uma **experiência objetiva**, ideal para quem deseja centralizar seus dados fiscais com agilidade — seja para consulta, planejamento ou pré-preenchimento no sistema da Receita Federal.
+Com um visual de destaque baseado em **rosas, roxos e preto**, a IR Sync foi pensada para entregar clareza, energia e estilo, sem abrir mão da estrutura e objetividade, aliando a uma **experiência objetiva**, ideal para quem deseja centralizar seus dados fiscais com agilidade — seja para consulta, planejamento ou pré-preenchimento no sistema da Receita Federal.
 
 ---
 
@@ -38,11 +38,11 @@ A planilha está organizada em **três abas principais**, com campos editáveis 
 - Pode ser utilizado para controlar o que já foi informado ou recebido durante o ano-base
 
 ### 🔹 **NOTAS**
-> Área livre para **anotações, lembretes ou observações** importantes.
+Seção destinada ao armazenamento de **notas bancárias, comprovantes de pagamento, holerites** e demais documentos financeiros que servem como base para os rendimentos declarados.
 
-- Ideal para listar documentos pendentes, recibos entregues, ou detalhes específicos de cada item
-- Ajuda a manter o controle completo das nuances que não se encaixam nos campos fixos
-
+- Pode ser usada para organizar recibos digitais ou físicos em formato de registro textual
+- Ideal para manter histórico de movimentações associadas às contas ou aos rendimentos salariais
+- Auxilia na hora de conferir valores com os **informes oficiais recebidos** ao fim do ano
 ---
 
 ## ⚙️ Funcionalidades
@@ -64,9 +64,9 @@ A planilha está organizada em **três abas principais**, com campos editáveis 
 
 ## ✅ Considerações finais
 
-A **IRSync** não pretende substituir plataformas oficiais ou sistemas automatizados de declaração, mas sim oferecer um **ambiente pessoal de controle e preparação**, com visual elegante e navegação descomplicada.
+A **IR Sync** não pretende substituir plataformas oficiais ou sistemas automatizados de declaração, mas sim oferecer um **ambiente pessoal de controle e preparação**, com visual elegante e navegação descomplicada.
 
-Perfeita para quem valoriza organização e quer estar preparado no momento da declaração anual, IRSync foi construída com foco na clareza, utilidade e estética.
+Perfeita para quem valoriza organização e quer estar preparado no momento da declaração anual, IR Sync foi construída com foco na clareza, utilidade e estética.
 
 ---
 
